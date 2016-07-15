@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/kr.osci.ide.feature_1.0.1.201604120913.jar" id="kr.osci.ide.feature" version="1.0.1.201604120913">
+   <feature url="features/kr.osci.ide.feature_1.0.1.201607151343.jar" id="kr.osci.ide.feature" version="1.0.1.201607151343">
       <category name="kr.osci.ide.category"/>
    </feature>
    <category-def name="kr.osci.ide.category" label="OSC Tools"/>
